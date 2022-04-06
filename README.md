@@ -1,3 +1,3 @@
 # Assignment
-Calculate Profit
-Measure Converter
+* Calculate Profit
+* Measure Converter
